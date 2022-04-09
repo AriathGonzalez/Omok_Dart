@@ -1,10 +1,9 @@
 # Files and directories created by pub.
 .dart_tool/
 .packages
-analysis_options.yaml
-CHANGELOG.md
-pubspec.lock
-.gitignore
 
 # Conventional directory for build output.
 build/
+analysis_options.yaml
+pubspec.lock
+.gitignore
